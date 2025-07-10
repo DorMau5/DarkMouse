@@ -1,0 +1,13 @@
+C:\Users\crschroeder\Repos\DarkMouseTheme\bin\Debug\DarkMouseTheme.dll
+C:\Users\crschroeder\Repos\DarkMouseTheme\bin\Debug\DarkMouseTheme.pdb
+C:\Users\crschroeder\Repos\DarkMouseTheme\bin\Debug\DarkMouseTheme.vsix
+C:\Users\crschroeder\Repos\DarkMouseTheme\bin\Debug\extension.vsixmanifest
+C:\Users\crschroeder\Repos\DarkMouseTheme\obj\Debug\DarkMouseTheme.csproj.AssemblyReference.cache
+C:\Users\crschroeder\Repos\DarkMouseTheme\obj\Debug\_EmptyResource.resources
+C:\Users\crschroeder\Repos\DarkMouseTheme\obj\Debug\DarkMouseTheme.csproj.GenerateResource.cache
+C:\Users\crschroeder\Repos\DarkMouseTheme\obj\Debug\DarkMouseTheme.csproj.CoreCompileInputs.cache
+C:\Users\crschroeder\Repos\DarkMouseTheme\obj\Debug\DarkMouseTheme.dll
+C:\Users\crschroeder\Repos\DarkMouseTheme\obj\Debug\DarkMouseTheme.pdb
+C:\Users\crschroeder\Repos\DarkMouseTheme\obj\Debug\extension.vsixmanifest
+C:\Users\crschroeder\Repos\DarkMouseTheme\obj\Debug\files.json
+C:\Users\crschroeder\Repos\DarkMouseTheme\obj\Debug\createTemplateManifests.cache
