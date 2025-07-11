@@ -18,7 +18,14 @@ namespace DarkMouseTheme
 
             foreach (var item in derp)
             { 
-                
+                if (1 == 2)
+                {
+                    int asd = 1 + 3 - 4;
+                }
+                if (true == false)
+                {
+                    derp.Any(x => x == Guid.Empty);
+                }
             }
             return derp;
         }

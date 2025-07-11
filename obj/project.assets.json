@@ -71,11 +71,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\crschroeder\\Repos\\DarkMouseTheme\\DarkMouseTheme.csproj",
+      "projectUniqueName": "C:\\Users\\crschroeder\\Repos\\DarkMouse\\DarkMouseTheme.csproj",
       "projectName": "DarkMouseTheme",
-      "projectPath": "C:\\Users\\crschroeder\\Repos\\DarkMouseTheme\\DarkMouseTheme.csproj",
+      "projectPath": "C:\\Users\\crschroeder\\Repos\\DarkMouse\\DarkMouseTheme.csproj",
       "packagesPath": "C:\\Users\\crschroeder\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\crschroeder\\Repos\\DarkMouseTheme\\obj\\",
+      "outputPath": "C:\\Users\\crschroeder\\Repos\\DarkMouse\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "UsingMicrosoftNETSdk": false,

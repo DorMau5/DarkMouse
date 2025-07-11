@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\crschroeder\\Repos\\DarkMouseTheme\\",
+  "WorkspaceRootPath": "C:\\Users\\crschroeder\\Repos\\DarkMouse\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{69BE8E71-E0A6-4066-A72F-E237AB3F0D10}|DarkMouseTheme.csproj|c:\\users\\crschroeder\\repos\\darkmousetheme\\customtheme.vstheme||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{69BE8E71-E0A6-4066-A72F-E237AB3F0D10}|DarkMouseTheme.csproj|c:\\users\\crschroeder\\repos\\darkmouse\\customtheme.vstheme||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{69BE8E71-E0A6-4066-A72F-E237AB3F0D10}|DarkMouseTheme.csproj|solutionrelative:customtheme.vstheme||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69BE8E71-E0A6-4066-A72F-E237AB3F0D10}|DarkMouseTheme.csproj|C:\\Users\\crschroeder\\Repos\\DarkMouseTheme\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{69BE8E71-E0A6-4066-A72F-E237AB3F0D10}|DarkMouseTheme.csproj|C:\\Users\\crschroeder\\Repos\\DarkMouse\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69BE8E71-E0A6-4066-A72F-E237AB3F0D10}|DarkMouseTheme.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69BE8E71-E0A6-4066-A72F-E237AB3F0D10}|DarkMouseTheme.csproj|C:\\Users\\crschroeder\\Repos\\DarkMouseTheme\\source.extension.vsixmanifest||{2868F8ED-DE25-439D-9F59-AD52458E9328}",
+      "AbsoluteMoniker": "D:0:0:{69BE8E71-E0A6-4066-A72F-E237AB3F0D10}|DarkMouseTheme.csproj|C:\\Users\\crschroeder\\Repos\\DarkMouse\\source.extension.vsixmanifest||{2868F8ED-DE25-439D-9F59-AD52458E9328}",
       "RelativeMoniker": "D:0:0:{69BE8E71-E0A6-4066-A72F-E237AB3F0D10}|DarkMouseTheme.csproj|solutionrelative:source.extension.vsixmanifest||{2868F8ED-DE25-439D-9F59-AD52458E9328}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\crschroeder\\Repos\\DarkMouseTheme\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\crschroeder\\Repos\\DarkMouse\\Class1.cs",
               "RelativeDocumentMoniker": "Class1.cs",
-              "ToolTip": "C:\\Users\\crschroeder\\Repos\\DarkMouseTheme\\Class1.cs",
+              "ToolTip": "C:\\Users\\crschroeder\\Repos\\DarkMouse\\Class1.cs",
               "RelativeToolTip": "Class1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-09T20:11:13.918Z",
               "IsPinned": true
@@ -41,11 +41,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CustomTheme.vstheme",
-              "DocumentMoniker": "C:\\Users\\crschroeder\\Repos\\DarkMouseTheme\\CustomTheme.vstheme",
+              "DocumentMoniker": "C:\\Users\\crschroeder\\Repos\\DarkMouse\\CustomTheme.vstheme",
               "RelativeDocumentMoniker": "CustomTheme.vstheme",
-              "ToolTip": "C:\\Users\\crschroeder\\Repos\\DarkMouseTheme\\CustomTheme.vstheme",
+              "ToolTip": "C:\\Users\\crschroeder\\Repos\\DarkMouse\\CustomTheme.vstheme",
               "RelativeToolTip": "CustomTheme.vstheme",
-              "ViewState": "AgIAACgHAAAAAAAAAAAvwEkHAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAANUFAAAAAAAAAAAEwOgFAAAgAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|",
               "WhenOpened": "2025-07-10T19:09:10.305Z",
               "IsPinned": true,
@@ -75,10 +75,10 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "source.extension.vsixmanifest [Design]",
-              "DocumentMoniker": "C:\\Users\\crschroeder\\Repos\\DarkMouseTheme\\source.extension.vsixmanifest",
+              "DocumentMoniker": "C:\\Users\\crschroeder\\Repos\\DarkMouse\\source.extension.vsixmanifest",
               "RelativeDocumentMoniker": "source.extension.vsixmanifest",
               "ToolTip": "C:\\Users\\crschroeder\\Repos\\DarkMouseTheme\\source.extension.vsixmanifest [Design]",
-              "RelativeToolTip": "source.extension.vsixmanifest [Design]",
+              "RelativeToolTip": "..\\DarkMouseTheme\\source.extension.vsixmanifest [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
               "WhenOpened": "2025-07-09T19:53:30.052Z"
             }
