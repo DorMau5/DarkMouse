@@ -35,8 +35,7 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-09T20:11:13.918Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
             },
             {
               "$type": "Document",
@@ -46,7 +45,7 @@
               "RelativeDocumentMoniker": "CustomTheme.vstheme",
               "ToolTip": "C:\\Users\\crschroeder\\Repos\\DarkMouse\\CustomTheme.vstheme",
               "RelativeToolTip": "CustomTheme.vstheme",
-              "ViewState": "AgIAAAIKAAAAAAAAAAAAAB0KAAA2AAAAAAAAAA==",
+              "ViewState": "AgIAACUQAAAAAAAAAAAowEIQAAApAAAAAAAAAA==",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|",
               "WhenOpened": "2025-07-10T19:09:10.305Z",
               "IsPinned": true,

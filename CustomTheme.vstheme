@@ -4140,7 +4140,7 @@
         <Background Type="CT_RAW" Source="FFFAFAFA" />
       </Color>
       <Color Name="ScrollBarArrowBackground">
-        <Background Type="CT_RAW" Source="FF110019" />
+        <Background Type="CT_RAW" Source="FF304E71" />
       </Color>
       <Color Name="ScrollBarArrowDisabledBackground">
         <Background Type="CT_RAW" Source="FF110019" />
@@ -4158,7 +4158,7 @@
         <Background Type="CT_RAW" Source="FF0D0014" />
       </Color>
       <Color Name="ScrollBarThumbBackground">
-        <Background Type="CT_RAW" Source="FF0D0014" />
+        <Background Type="CT_RAW" Source="FF304E71" />
       </Color>
       <Color Name="ScrollBarThumbBorder">
         <Background Type="CT_RAW" Source="AA6D5B7B" />
@@ -4167,10 +4167,10 @@
         <Background Type="CT_RAW" Source="FF0D0014" />
       </Color>
       <Color Name="ScrollBarThumbMouseOverBackground">
-        <Background Type="CT_RAW" Source="FF0D0014" />
+        <Background Type="CT_RAW" Source="FF304E71" />
       </Color>
       <Color Name="ScrollBarThumbPressedBackground">
-        <Background Type="CT_RAW" Source="88413548" />
+        <Background Type="CT_RAW" Source="88304E71" />
       </Color>
       <Color Name="SearchBoxBackground">
         <Background Type="CT_RAW" Source="FF0D0014" />
