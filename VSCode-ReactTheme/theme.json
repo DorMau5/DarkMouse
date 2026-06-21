@@ -1,0 +1,142 @@
+{
+  "name": "Darkmouse",
+  "type": "dark",
+  "colors": {
+    "editor.background": "#110019",
+    "editor.foreground": "#6688CC",
+    "editor.lineHighlightBackground": "#205CF8",
+    "editor.selectionBackground": "#F18F01",
+    "editorCursor.foreground": "#ffffff",
+
+    "activityBar.background": "#100017",
+    "sideBar.background": "#110019",
+    "titleBar.activeBackground": "#100017",
+    "statusBar.background": "#100017"
+  },
+
+  "tokenColors": [
+    {
+      "scope": ["comment"],
+      "settings": {
+        "foreground": "#4f3961",
+        "fontStyle": "italic"
+      }
+    },
+
+    {
+      "scope": [
+        "keyword",
+        "storage",
+        "keyword.control"
+      ],
+      "settings": {
+        "foreground": "#3c4390"
+      }
+    },
+
+    {
+      "scope": [
+        "string"
+      ],
+      "settings": {
+        "foreground": "#417376"
+      }
+    },
+
+    {
+      "scope": [
+        "constant.numeric"
+      ],
+      "settings": {
+        "foreground": "#d4e6b5"
+      }
+    },
+
+    {
+      "scope": [
+        "entity.name.function",
+        "support.function"
+      ],
+      "settings": {
+        "foreground": "#4b7f52"
+      }
+    },
+
+    {
+      "scope": [
+        "variable",
+        "identifier"
+      ],
+      "settings": {
+        "foreground": "#afbbf2"
+      }
+    },
+
+    {
+      "scope": [
+        "entity.name.type",
+        "support.class",
+        "entity.name.class"
+      ],
+      "settings": {
+        "foreground": "#c2ac1e"
+      }
+    },
+
+    {
+      "scope": [
+        "entity.name.tag"
+      ],
+      "settings": {
+        "foreground": "#7388e8"
+      }
+    },
+
+    {
+      "scope": [
+        "entity.other.attribute-name"
+      ],
+      "settings": {
+        "foreground": "#afbbf2"
+      }
+    },
+
+    {
+      "scope": [
+        "punctuation.definition.tag"
+      ],
+      "settings": {
+        "foreground": "#afbbf2"
+      }
+    },
+
+    {
+      "scope": [
+        "support.type.property-name.css",
+        "meta.property-name.css"
+      ],
+      "settings": {
+        "foreground": "#afbbf2"
+      }
+    },
+
+    {
+      "scope": [
+        "support.constant.property-value.css"
+      ],
+      "settings": {
+        "foreground": "#afbbf2"
+      }
+    },
+
+    {
+      "scope": [
+        "meta.object-literal.key",
+        "support.type.property-name.json"
+      ],
+      "settings": {
+        "foreground": "#417376"
+      }
+    }
+  ]
+}
